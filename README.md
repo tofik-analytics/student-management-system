@@ -56,7 +56,7 @@ python main.py
 * Login system
 
 ---
-## 👨‍💻 Author
-  tofik-analytics
 
-Your Name
+## 👨‍💻 Author
+
+       tofik-analytics
