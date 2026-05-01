@@ -59,4 +59,8 @@ python main.py
 
 ## 👨‍💻 Author
 
-       tofik-analytics
+      tofik-analytics
+
+![Menu](menu.png)
+![Add Student](add.png)
+![View Students](view.png)
